@@ -1,0 +1,13 @@
+{
+  "name": "mqtt-vercel-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js"
+  },
+  "dependencies": {
+    "mqtt": "^5.10.0"
+  }
+}
